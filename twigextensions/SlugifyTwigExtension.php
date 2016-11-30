@@ -69,6 +69,7 @@ class SlugifyTwigExtension extends \Twig_Extension
      */
     public function slugify($slug)
     {
+        $slug = StringHelper::asciiString($slug);
         return ElementHelper::createSlug($slug);
     }
 }
