@@ -12,7 +12,7 @@ The plugin's folder should be named "slugify"
 Changelog
 =================
 ###1.2###
- - Added ASCII conversion to sluigy method
+ - Added ASCII conversion to slugify method
 
 ###1.1.1###
  - Added a MIT license
