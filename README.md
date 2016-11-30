@@ -1,5 +1,5 @@
 NOTE: As of Craft 2.4, this is natively available as the ["kebab"](http://buildwithcraft.com/docs/templating/filters#kebab) filter.
-Therefore this plugin is no longer supported.
+Therefore this plugin is only required for non-english locales.
 
 Slugify plugin for Craft CMS
 =================
